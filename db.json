@@ -1,0 +1,348 @@
+{
+  "referenceData": {
+    "fyYears": [2018, 2019, 2020, 2021],
+    "channelGroups": [
+      "Al Jazera",
+      "Aurora Television Ltd",
+      "Australian Christian Channel",
+      "BBC",
+      "beIN Media Group",
+      "CCTV News",
+      "Chelsea Digital Media Ltd",
+      "Discovery Networks",
+      "Disney",
+      "ESPN Inc",
+      "FashionTV Australia",
+      "FOX Networks Group",
+      "FOX Sports Australia Pty Ltd",
+      "Foxtel, Australia",
+      "Hillsong Church & Trinity Broadcasting Network",
+      "Interfine Holdings",
+      "Japan International Brroadcasting Inc.",
+      "Jimmy Swaggart Ministries",
+      "KidsCo",
+      "Liverpool FC",
+      "Main Event Television Pty Ltd",
+      "Manchester United FC",
+      "Michael Bloomberg",
+      "National Indigenous Television",
+      "NBC Universal",
+      "News Corporation",
+      "Overlook BV",
+      "Premium Movie Patrnership",
+      "Racing Victoria Limited",
+      "SBS",
+      "Sky News",
+      "TABCorp Ltd",
+      "The Movie Network",
+      "Through VisioN Pty Ltd",
+      "TRT Corporation",
+      "Turner Broadcastring System Asian PAcific, Inc",
+      "TV1",
+      "TV-Novosti",
+      "Viacom",
+      "World Of God Fellowship"
+    ],
+    "channelList": ["Fox8", "SHO"],
+    "tier": [
+      "Docos",
+      "Drama",
+      "Entertaintment",
+      "EntertaintmentPlus",
+      "Kids",
+      "Movies",
+      "PPV",
+      "Sports"
+    ],
+    "acmaCategories": [
+      "Exempt GES",
+      "Exempt Movies",
+      "Exempt Music",
+      "Exempt News",
+      "Exempt Sports",
+      "GES Cat A",
+      "GES Cat B",
+      "GES Cat C",
+      "Movies Cat A",
+      "Movies Cat B",
+      "Movies Cat C",
+      "Max",
+      "Music",
+      "News",
+      "Sports"
+    ],
+    "contractualCategories": [
+      "Exempt GES",
+      "Exempt Movies",
+      "Exempt Music",
+      "Exempt News",
+      "Exempt Sports",
+      "GES Cat A",
+      "GES Cat B",
+      "GES Cat C",
+      "Movies Cat A",
+      "Movies Cat B",
+      "Movies Cat C",
+      "Max",
+      "Music",
+      "News",
+      "Sports"
+    ]
+  },
+  "acmaCaption": [
+    {
+      "finYear": "2018",
+      "catgory": "Sports",
+      "caption": 35
+    },
+    {
+      "finYear": "2018",
+      "catgory": "New",
+      "caption": 65
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Music",
+      "caption": 55
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Movies Cat C",
+      "caption": 35
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Movies Cat B",
+      "caption": 35
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Movies Cat A",
+      "caption": 15
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Max",
+      "caption": 100
+    },
+    {
+      "finYear": "2018",
+      "catgory": "GES Cat C",
+      "caption": 63
+    },
+    {
+      "finYear": "2018",
+      "catgory": "GES Cat B",
+      "caption": 42
+    },
+    {
+      "finYear": "2018",
+      "catgory": "GES Cat A",
+      "caption": 82
+    },
+
+    {
+      "finYear": "2019",
+      "catgory": "Sports",
+      "caption": 40
+    },
+    {
+      "id": "2019",
+      "catgory": "New",
+      "caption": 70
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Music",
+      "caption": 60
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Movies Cat C",
+      "caption": 40
+    },
+    {
+      "id": "2019",
+      "catgory": "Movies Cat B",
+      "caption": 40
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Movies Cat A",
+      "caption": 20
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Max",
+      "caption": 100
+    },
+    {
+      "finYear": "2019",
+      "catgory": "GES Cat C",
+      "caption": 68
+    },
+    {
+      "finYear": "2019",
+      "catgory": "GES Cat B",
+      "caption": 47
+    },
+    {
+      "finYear": "2019",
+      "catgory": "GES Cat A",
+      "caption": 87
+    }
+  ],
+  "contractualCaption": [
+    {
+      "finYear": "2018",
+      "catgory": "Sports",
+      "caption": 35
+    },
+    {
+      "finYear": "2018",
+      "catgory": "New",
+      "caption": 65
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Music",
+      "caption": 55
+    },
+    {
+      "id": "2018",
+      "catgory": "Movies Cat C",
+      "caption": 35
+    },
+    {
+      "id": "2018",
+      "catgory": "Movies Cat B",
+      "caption": 35
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Movies Cat A",
+      "caption": 15
+    },
+    {
+      "finYear": "2018",
+      "catgory": "Max",
+      "caption": 100
+    },
+    {
+      "finYear": "2018",
+      "catgory": "GES Cat C",
+      "caption": 63
+    },
+    {
+      "finYear": "2018",
+      "catgory": "GES Cat B",
+      "caption": 42
+    },
+    {
+      "finYear": "2018",
+      "catgory": "GES Cat A",
+      "caption": 82
+    },
+
+    {
+      "finYear": "2019",
+      "catgory": "Sports",
+      "caption": 40
+    },
+    {
+      "finYear": "2019",
+      "catgory": "New",
+      "caption": 70
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Music",
+      "caption": 60
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Movies Cat C",
+      "caption": 40
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Movies Cat B",
+      "caption": 40
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Movies Cat A",
+      "caption": 20
+    },
+    {
+      "finYear": "2019",
+      "catgory": "Max",
+      "caption": 100
+    },
+    {
+      "finYear": "2019",
+      "catgory": "GES Cat C",
+      "caption": 68
+    },
+    {
+      "finYear": "2019",
+      "catgory": "GES Cat B",
+      "caption": 47
+    },
+    {
+      "finYear": "2019",
+      "catgory": "GES Cat A",
+      "caption": 87
+    }
+  ],
+  "channel": [
+    {
+      "name": "Fox8",
+      "finYear": 2019,
+      "channelGroup": "Fox Networks Group",
+      "acmaCategory": "Movies Cat A",
+      "channelConfig": ["SD", "HD"],
+      "tier": "Drama",
+      "launchStart": "2019-10-22 8:00:00",
+      "launchEnd": "2019-10-22 8:00:00",
+      "acmaCaption": 60,
+      "contractualCaption": 60
+    },
+    {
+      "name": "Fox8",
+      "finYear": 2018,
+      "channelGroup": "FOX SPORTS AUSTRALIA Pty Ltd",
+      "acmaCategory": "Movies Cat A",
+      "channelConfig": ["SD", "HD", "4k"],
+      "tier": "Drama",
+      "launchStart": "2019-10-22 8:00:00",
+      "launchEnd": "2019-10-22 8:00:00",
+      "acmaCaption": 40,
+      "contractualCaption": 70
+    },
+    {
+      "name": "SHO",
+      "finYear": 2018,
+      "channelGroup": "Foxtel, Australia",
+      "acmaCategory": "Movies Cat A",
+      "channelConfig": ["SD", "HD"],
+      "tier": "Movies",
+      "launchStart": "2019-10-22 8:00:00",
+      "launchEnd": "2019-10-22 8:00:00",
+      "acmaCaption": 40,
+      "contractualCaption": 30
+    },
+    {
+      "name": "SHO",
+      "finYear": 2019,
+      "channelGroup": "Foxtel, Australia",
+      "acmaCategory": "Movies Cat B",
+      "channelConfig": ["SD", "HD", "4k"],
+      "tier": "Drama",
+      "launchStart": "2019-10-22 8:00:00",
+      "launchEnd": "2019-10-22 8:00:00",
+      "acmaCaption": 60,
+      "contractualCaption": 80
+    }
+  ]
+}
