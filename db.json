@@ -1,6 +1,10 @@
 {
   "referenceData": {
-    "fyYears": [2019, 2020, 2021],
+    "fyYears": [
+      2019,
+      2020,
+      2021
+    ],
     "channelGroups": [
       "Al Jazera",
       "Aurora Television Ltd",
@@ -43,7 +47,10 @@
       "Viacom",
       "World Of God Fellowship"
     ],
-    "channelList": ["Fox8", "SHO"],
+    "channelList": [
+      "Fox8",
+      "SHO"
+    ],
     "tier": [
       "Docos",
       "Drama",
@@ -91,816 +98,767 @@
   },
   "acmaCaption": [
     {
+      "id": "2020_Exempt_GES",
       "finYear": "2020",
-      "catgory": "Exempt GES",
+      "category": "Exempt GES",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_Movies",
       "finYear": "2020",
-      "catgory": "Exempt Movies",
+      "category": "Exempt Movies",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_Music",
       "finYear": "2020",
-      "catgory": "Exempt Music",
+      "category": "Exempt Music",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_News",
       "finYear": "2020",
-      "catgory": "Exempt News",
+      "category": "Exempt News",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_Sports",
       "finYear": "2020",
-      "catgory": "Exempt Sports",
+      "category": "Exempt Sports",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_GES",
       "finYear": "2019",
-      "catgory": "Exempt GES",
+      "category": "Exempt GES",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_Movies",
       "finYear": "2019",
-      "catgory": "Exempt Movies",
+      "category": "Exempt Movies",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_Music",
       "finYear": "2019",
-      "catgory": "Exempt Music",
+      "category": "Exempt Music",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_News",
       "finYear": "2019",
-      "catgory": "Exempt News",
+      "category": "Exempt News",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_Sports",
       "finYear": "2019",
-      "catgory": "Exempt Sports",
+      "category": "Exempt Sports",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_GES",
       "finYear": "2018",
-      "catgory": "Exempt GES",
+      "category": "Exempt GES",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_Movies",
       "finYear": "2018",
-      "catgory": "Exempt Movies",
+      "category": "Exempt Movies",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_Music",
       "finYear": "2018",
-      "catgory": "Exempt Music",
+      "category": "Exempt Music",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_News",
       "finYear": "2018",
-      "catgory": "Exempt News",
+      "category": "Exempt News",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_Sports",
       "finYear": "2018",
-      "catgory": "Exempt Sports",
+      "category": "Exempt Sports",
       "caption": -1
     },
     {
+      "id": "2018_Sports",
       "finYear": "2018",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 35
     },
     {
+      "id": "2018_New",
       "finYear": "2018",
-      "catgory": "New",
+      "category": "New",
       "caption": 65
     },
     {
+      "id": "2018_Music",
       "finYear": "2018",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 55
     },
     {
-      "id": "2018",
-      "catgory": "Movies Cat C",
-      "caption": 35
-    },
-    {
-      "id": "2018",
-      "catgory": "Movies Cat B",
-      "caption": 35
-    },
-    {
+      "id": "2018_Movies_Cat_C",
       "finYear": "2018",
-      "catgory": "Movies Cat A",
+      "category": "Movies Cat C",
+      "caption": 35
+    },
+    {
+      "id": "2018_Movies_Cat_B",
+      "finYear": "2018",
+      "category": "Movies Cat B",
+      "caption": 35
+    },
+    {
+      "id": "2018_Movies_Cat_A",
+      "finYear": "2018",
+      "category": "Movies Cat A",
       "caption": 15
     },
     {
+      "id": "2018_Max",
       "finYear": "2018",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2018_GES_Cat_C",
       "finYear": "2018",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 63
     },
     {
+      "id": "2018_GES_Cat_B",
       "finYear": "2018",
-      "catgory": "GES Cat B",
+      "category": "GES Cat B",
       "caption": 47
     },
     {
+      "id": "2018_GES_Cat_A",
       "finYear": "2018",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 82
     },
-
     {
-      "finYear": "2018",
-      "catgory": "Sports",
-      "caption": 40
-    },
-    {
-      "finYear": "2018",
-      "catgory": "New",
-      "caption": 70
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Music",
-      "caption": 60
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat C",
-      "caption": 40
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat B",
-      "caption": 40
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat A",
-      "caption": 20
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Max",
-      "caption": 100
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat C",
-      "caption": 68
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat B",
-      "caption": 47
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat A",
-      "caption": 87
-    },
-
-    {
-      "finYear": "2018",
-      "catgory": "Sports",
-      "caption": 35
-    },
-    {
-      "finYear": "2018",
-      "catgory": "New",
-      "caption": 65
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Music",
-      "caption": 55
-    },
-    {
-      "id": "2018",
-      "catgory": "Movies Cat C",
-      "caption": 35
-    },
-    {
-      "id": "2018",
-      "catgory": "Movies Cat B",
-      "caption": 35
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat A",
-      "caption": 15
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Max",
-      "caption": 100
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat C",
-      "caption": 63
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat B",
-      "caption": 42
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat A",
-      "caption": 82
-    },
-
-    {
+      "id": "2019_Sports",
       "finYear": "2019",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 45
     },
     {
+      "id": "2019_New",
       "finYear": "2019",
-      "catgory": "New",
+      "category": "New",
       "caption": 75
     },
     {
+      "id": "2019_Music",
       "finYear": "2019",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 65
     },
     {
+      "id": "2019_Movies_Cat_C",
       "finYear": "2019",
-      "catgory": "Movies Cat C",
+      "category": "Movies Cat C",
       "caption": 45
     },
     {
+      "id": "2019_Movies_Cat_B",
       "finYear": "2019",
-      "catgory": "Movies Cat B",
+      "category": "Movies Cat B",
       "caption": 45
     },
     {
-      "finYear": "2019",
-      "catgory": "Movies Cat A",
-      "caption": 25
+      "caption": "65",
+      "id": "2019_Movies_Cat_A",
+      "category": "Movies Cat A",
+      "finYear": 2019
     },
     {
+      "id": "2019_Max",
       "finYear": "2019",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2019_GES_Cat_C",
       "finYear": "2019",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 73
     },
     {
-      "finYear": "2019",
-      "catgory": "GES Cat B",
-      "caption": 52
+      "caption": "48",
+      "id": "2019_GES_Cat_B",
+      "category": "GES Cat B",
+      "finYear": 2019
     },
     {
+      "id": "2019_GES_Cat_A",
       "finYear": "2019",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 92
     },
-
     {
+      "id": "2020_Sports",
       "finYear": "2020",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 50
     },
     {
+      "id": "2020_New",
       "finYear": "2020",
-      "catgory": "New",
+      "category": "New",
       "caption": 80
     },
     {
+      "id": "2020_Music",
       "finYear": "2020",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 70
     },
     {
+      "caption": "55",
+      "id": "2020_Movies_Cat_C",
+      "category": "Movies Cat C",
+      "finYear": 2020
+    },
+    {
+      "id": "2020_Movies_Cat_B",
       "finYear": "2020",
-      "catgory": "Movies Cat C",
+      "category": "Movies Cat B",
       "caption": 50
     },
     {
+      "id": "2020_Movies_Cat_A",
       "finYear": "2020",
-      "catgory": "Movies Cat B",
-      "caption": 50
-    },
-    {
-      "finYear": "2020",
-      "catgory": "Movies Cat A",
+      "category": "Movies Cat A",
       "caption": 30
     },
     {
+      "id": "2020_Movies_Cat_A",
       "finYear": "2020",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2020_GES_Cat_C",
       "finYear": "2020",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 78
     },
     {
+      "id": "2020_GES_Cat_B",
       "finYear": "2020",
-      "catgory": "GES Cat B",
+      "category": "GES Cat B",
       "caption": 57
     },
     {
+      "id": "2020_GES_Cat_A",
       "finYear": "2020",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 97
     },
-
     {
+      "id": "2021_Sports",
       "finYear": "2021",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 55
     },
     {
+      "id": "2021_New",
       "finYear": "2021",
-      "catgory": "New",
+      "category": "New",
       "caption": 85
     },
     {
+      "id": "2021_Music",
       "finYear": "2021",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 75
     },
     {
+      "id": "2021_Movies_Cat_C",
       "finYear": "2021",
-      "catgory": "Movies Cat C",
+      "category": "Movies Cat C",
       "caption": 55
     },
     {
+      "id": "2021_Movies_Cat_B",
       "finYear": "2021",
-      "catgory": "Movies Cat B",
+      "category": "Movies Cat B",
       "caption": 55
     },
     {
+      "id": "2021_Movies_Cat_A",
       "finYear": "2021",
-      "catgory": "Movies Cat A",
+      "category": "Movies Cat A",
       "caption": 35
     },
     {
+      "id": "Max",
       "finYear": "2021",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2021_GES_Cat_C",
       "finYear": "2021",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 83
     },
     {
+      "id": "2021_GES_Cat_B",
       "finYear": "2021",
-      "catgory": "GES Cat B",
+      "category": "GES Cat B",
       "caption": 62
     },
     {
+      "id": "2021_GES_Cat_A",
       "finYear": "2021",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 100
     }
   ],
   "contractualCaption": [
     {
+      "id": "2020_Exempt_GES",
       "finYear": "2020",
-      "catgory": "Exempt GES",
+      "category": "Exempt GES",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_Movies",
       "finYear": "2020",
-      "catgory": "Exempt Movies",
+      "category": "Exempt Movies",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_Music",
       "finYear": "2020",
-      "catgory": "Exempt Music",
+      "category": "Exempt Music",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_News",
       "finYear": "2020",
-      "catgory": "Exempt News",
+      "category": "Exempt News",
       "caption": -1
     },
     {
+      "id": "2020_Exempt_Sports",
       "finYear": "2020",
-      "catgory": "Exempt Sports",
+      "category": "Exempt Sports",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_GES",
       "finYear": "2019",
-      "catgory": "Exempt GES",
+      "category": "Exempt GES",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_Movies",
       "finYear": "2019",
-      "catgory": "Exempt Movies",
+      "category": "Exempt Movies",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_Music",
       "finYear": "2019",
-      "catgory": "Exempt Music",
+      "category": "Exempt Music",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_News",
       "finYear": "2019",
-      "catgory": "Exempt News",
+      "category": "Exempt News",
       "caption": -1
     },
     {
+      "id": "2019_Exempt_Sports",
       "finYear": "2019",
-      "catgory": "Exempt Sports",
+      "category": "Exempt Sports",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_GES",
       "finYear": "2018",
-      "catgory": "Exempt GES",
+      "category": "Exempt GES",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_Movies",
       "finYear": "2018",
-      "catgory": "Exempt Movies",
+      "category": "Exempt Movies",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_Music",
       "finYear": "2018",
-      "catgory": "Exempt Music",
+      "category": "Exempt Music",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_News",
       "finYear": "2018",
-      "catgory": "Exempt News",
+      "category": "Exempt News",
       "caption": -1
     },
     {
+      "id": "2018_Exempt_Sports",
       "finYear": "2018",
-      "catgory": "Exempt Sports",
+      "category": "Exempt Sports",
       "caption": -1
     },
     {
+      "id": "2018_Sports",
       "finYear": "2018",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 35
     },
     {
+      "id": "2018_New",
       "finYear": "2018",
-      "catgory": "New",
+      "category": "New",
       "caption": 65
     },
     {
+      "id": "2018_Music",
       "finYear": "2018",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 55
     },
     {
-      "id": "2018",
-      "catgory": "Movies Cat C",
-      "caption": 35
-    },
-    {
-      "id": "2018",
-      "catgory": "Movies Cat B",
-      "caption": 35
-    },
-    {
+      "id": "2018_Movies_Cat_C",
       "finYear": "2018",
-      "catgory": "Movies Cat A",
+      "category": "Movies Cat C",
+      "caption": 35
+    },
+    {
+      "id": "2018_Movies_Cat_B",
+      "finYear": "2018",
+      "category": "Movies Cat B",
+      "caption": 35
+    },
+    {
+      "id": "2018_Movies_Cat_A",
+      "finYear": "2018",
+      "category": "Movies Cat A",
       "caption": 15
     },
     {
+      "id": "2018_Max",
       "finYear": "2018",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2018_GES_Cat_C",
       "finYear": "2018",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 63
     },
     {
+      "id": "2018_GES_Cat_B",
       "finYear": "2018",
-      "catgory": "GES Cat B",
-      "caption": 42
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat A",
-      "caption": 82
-    },
-
-    {
-      "finYear": "2018",
-      "catgory": "Sports",
-      "caption": 40
-    },
-    {
-      "finYear": "2018",
-      "catgory": "New",
-      "caption": 70
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Music",
-      "caption": 60
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat C",
-      "caption": 40
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat B",
-      "caption": 40
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat A",
-      "caption": 20
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Max",
-      "caption": 100
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat C",
-      "caption": 68
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat B",
+      "category": "GES Cat B",
       "caption": 47
     },
     {
+      "id": "2018_GES_Cat_A",
       "finYear": "2018",
-      "catgory": "GES Cat A",
-      "caption": 87
-    },
-
-    {
-      "finYear": "2018",
-      "catgory": "Sports",
-      "caption": 35
-    },
-    {
-      "finYear": "2018",
-      "catgory": "New",
-      "caption": 65
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Music",
-      "caption": 55
-    },
-    {
-      "id": "2018",
-      "catgory": "Movies Cat C",
-      "caption": 35
-    },
-    {
-      "id": "2018",
-      "catgory": "Movies Cat B",
-      "caption": 35
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Movies Cat A",
-      "caption": 15
-    },
-    {
-      "finYear": "2018",
-      "catgory": "Max",
-      "caption": 100
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat C",
-      "caption": 63
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat B",
-      "caption": 42
-    },
-    {
-      "finYear": "2018",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 82
     },
-
     {
+      "id": "2019_Sports",
       "finYear": "2019",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 45
     },
     {
+      "id": "2019_New",
       "finYear": "2019",
-      "catgory": "New",
+      "category": "New",
       "caption": 75
     },
     {
+      "id": "2019_Music",
       "finYear": "2019",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 65
     },
     {
+      "id": "2019_Movies_Cat_C",
       "finYear": "2019",
-      "catgory": "Movies Cat C",
+      "category": "Movies Cat C",
       "caption": 45
     },
     {
-      "finYear": "2019",
-      "catgory": "Movies Cat B",
-      "caption": 45
+      "caption": "60",
+      "id": "2019_Movies_Cat_B",
+      "category": "Movies Cat B",
+      "finYear": 2019
     },
     {
-      "finYear": "2019",
-      "catgory": "Movies Cat A",
-      "caption": 25
+      "caption": "65",
+      "id": "2019_Movies_Cat_A",
+      "category": "Movies Cat A",
+      "finYear": 2019
     },
     {
+      "id": "2019_Max",
       "finYear": "2019",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
-      "finYear": "2019",
-      "catgory": "GES Cat C",
-      "caption": 73
+      "caption": "79",
+      "id": "2019_GES_Cat_C",
+      "category": "GES Cat C",
+      "finYear": 2019
     },
     {
-      "finYear": "2019",
-      "catgory": "GES Cat B",
-      "caption": 52
+      "caption": "40",
+      "id": "2019_GES_Cat_B",
+      "category": "GES Cat B",
+      "finYear": 2019
     },
     {
-      "finYear": "2019",
-      "catgory": "GES Cat A",
-      "caption": 92
+      "caption": "93",
+      "id": "2019_GES_Cat_A",
+      "category": "GES Cat A",
+      "finYear": 2019
     },
-
     {
+      "id": "2020_Sports",
       "finYear": "2020",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 50
     },
     {
+      "id": "2020_New",
       "finYear": "2020",
-      "catgory": "New",
+      "category": "New",
       "caption": 80
     },
     {
+      "id": "2020_Music",
       "finYear": "2020",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 70
     },
     {
+      "id": "2020_Movies_Cat_C",
       "finYear": "2020",
-      "catgory": "Movies Cat C",
+      "category": "Movies Cat C",
       "caption": 50
     },
     {
+      "id": "2020_Movies_Cat_B",
       "finYear": "2020",
-      "catgory": "Movies Cat B",
+      "category": "Movies Cat B",
       "caption": 50
     },
     {
+      "id": "2020_Movies_Cat_A",
       "finYear": "2020",
-      "catgory": "Movies Cat A",
+      "category": "Movies Cat A",
       "caption": 30
     },
     {
+      "id": "2020_Movies_Cat_A",
       "finYear": "2020",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2020_GES_Cat_C",
       "finYear": "2020",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 78
     },
     {
+      "id": "2020_GES_Cat_B",
       "finYear": "2020",
-      "catgory": "GES Cat B",
+      "category": "GES Cat B",
       "caption": 57
     },
     {
+      "id": "2020_GES_Cat_A",
       "finYear": "2020",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 97
     },
-
     {
+      "id": "2021_Sports",
       "finYear": "2021",
-      "catgory": "Sports",
+      "category": "Sports",
       "caption": 55
     },
     {
+      "id": "2021_New",
       "finYear": "2021",
-      "catgory": "New",
+      "category": "New",
       "caption": 85
     },
     {
+      "id": "2021_Music",
       "finYear": "2021",
-      "catgory": "Music",
+      "category": "Music",
       "caption": 75
     },
     {
+      "id": "2021_Movies_Cat_C",
       "finYear": "2021",
-      "catgory": "Movies Cat C",
+      "category": "Movies Cat C",
       "caption": 55
     },
     {
+      "id": "2021_Movies_Cat_B",
       "finYear": "2021",
-      "catgory": "Movies Cat B",
+      "category": "Movies Cat B",
       "caption": 55
     },
     {
+      "id": "2021_Movies_Cat_A",
       "finYear": "2021",
-      "catgory": "Movies Cat A",
+      "category": "Movies Cat A",
       "caption": 35
     },
     {
+      "id": "Max",
       "finYear": "2021",
-      "catgory": "Max",
+      "category": "Max",
       "caption": 100
     },
     {
+      "id": "2021_GES_Cat_C",
       "finYear": "2021",
-      "catgory": "GES Cat C",
+      "category": "GES Cat C",
       "caption": 83
     },
     {
+      "id": "2021_GES_Cat_B",
       "finYear": "2021",
-      "catgory": "GES Cat B",
+      "category": "GES Cat B",
       "caption": 62
     },
     {
+      "id": "2021_GES_Cat_A",
       "finYear": "2021",
-      "catgory": "GES Cat A",
+      "category": "GES Cat A",
       "caption": 100
     }
   ],
   "channel": [
     {
-      "name": "Fox8",
       "finYear": 2019,
-      "channelGroup": "Fox Networks Group",
+      "tier": "PPV",
       "acmaCategory": "Movies Cat A",
-      "channelConfig": ["SD", "HD"],
-      "tier": "Drama",
-      "launchStart": "2019-10-22 8:00:00",
-      "launchEnd": "2019-10-22 8:00:00",
-      "acmaCaption": 60,
-      "contractualCaption": 60
+      "channel": "Fox8",
+      "channelGroup": "FashionTV Australia",
+      "hdChannel": true,
+      "sdChannel": true,
+      "fourkChannel": true,
+      "plus2channel": false,
+      "launchStartDate": null,
+      "launchEndDate": null,
+      "launchStartTime": null,
+      "launchEndTime": null,
+      "id": "2019_Fox8_Movies_Cat_A"
     },
     {
+      "id": "2018_Fox8_Movies_Cat_A",
       "name": "Fox8",
       "finYear": 2018,
       "channelGroup": "FOX SPORTS AUSTRALIA Pty Ltd",
       "acmaCategory": "Movies Cat A",
-      "channelConfig": ["SD", "HD", "4k"],
+      "hdChannel": true,
+      "sdChannel": true,
+      "fourkChannel": true,
+      "plus2channel": true,
       "tier": "Drama",
-      "launchStart": "2019-10-22 8:00:00",
-      "launchEnd": "2019-10-22 8:00:00",
-      "acmaCaption": 40,
-      "contractualCaption": 70
+      "launchStartDate": null,
+      "launchStartTime": null,
+      "launchEndTime": null,
+      "launchEndDate": null,
+      "acmaCaption": 40
     },
     {
+      "id": "2018_SHO_Movies_Cat_A",
       "name": "SHO",
       "finYear": 2018,
       "channelGroup": "Foxtel, Australia",
       "acmaCategory": "Movies Cat A",
-      "channelConfig": ["SD", "HD"],
+      "hdChannel": true,
+      "sdChannel": true,
+      "fourkChannel": true,
+      "plus2channel": true,
       "tier": "Movies",
-      "launchStart": "2019-10-22 8:00:00",
-      "launchEnd": "2019-10-22 8:00:00",
-      "acmaCaption": 40,
-      "contractualCaption": 30
+      "launchStartDate": null,
+      "launchStartTime": null,
+      "launchEndTime": null,
+      "launchEndDate": null,
+      "acmaCaption": 40
     },
     {
+      "id": "2019_SHO_Movies_Cat_B",
       "name": "SHO",
       "finYear": 2019,
       "channelGroup": "Foxtel, Australia",
       "acmaCategory": "Movies Cat B",
-      "channelConfig": ["SD", "HD", "4k"],
+      "hdChannel": true,
+      "sdChannel": true,
+      "fourkChannel": true,
+      "plus2channel": true,
       "tier": "Drama",
-      "launchStart": "2019-10-22 8:00:00",
-      "launchEnd": "2019-10-22 8:00:00",
-      "acmaCaption": 60,
-      "contractualCaption": 80
+      "launchStartDate": null,
+      "launchStartTime": null,
+      "launchEndTime": null,
+      "launchEndDate": null,
+      "acmaCaption": 60
+    },
+    {
+      "finYear": 2019,
+      "tier": "Drama",
+      "acmaCategory": "News",
+      "channel": "SHO",
+      "channelGroup": "ESPN Inc",
+      "hdChannel": true,
+      "sdChannel": false,
+      "fourkChannel": true,
+      "plus2channel": false,
+      "launchStartDate": null,
+      "launchStartTime": null,
+      "launchEndTime": null,
+      "launchEndDate": null,
+      "id": "2019_SHO_News"
+    },
+    {
+      "finYear": 2020,
+      "tier": 0,
+      "acmaCategory": "Movies Cat A",
+      "channel": "SHO",
+      "channelGroup": "Disney",
+      "hdChannel": false,
+      "sdChannel": false,
+      "fourkChannel": true,
+      "plus2channel": true,
+      "launchStartDate": null,
+      "launchStartTime": null,
+      "launchEndTime": null,
+      "launchEndDate": null,
+      "id": "2020_SHO_News"
     }
   ]
 }
